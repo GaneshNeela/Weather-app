@@ -68,7 +68,7 @@ body{
 .weather h2{
     font-size: 50px;
     font-weight: 500;
-    margin-top: -20px;
+    margin-top: -9px;
 }
 .details{
     display: flex;
